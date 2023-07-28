@@ -1,0 +1,2 @@
+# Solar-Panel-Angle-Optimization-Digital-Circuit-Design
+This project is about designing a simple digital circuit to detect and move solar panels based on sunlight. It involves three sensors (A, B and C) to control the rotation of a motor (M) attached to a solar panel. The goal is to optimize the electricity generation by keeping the solar panel perpendicular to the sun's rays as it moves across the sky.
