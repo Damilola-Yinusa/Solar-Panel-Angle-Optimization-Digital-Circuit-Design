@@ -1,0 +1,9 @@
+module MUX(A, B, S, F);
+  input A, B, S;
+  output F;
+  wire w1, w2;
+  and G1(w1, A, !S);
+  and G2(w2, B, S);
+  or G3(F, w1, w2);
+  
+endmodule
